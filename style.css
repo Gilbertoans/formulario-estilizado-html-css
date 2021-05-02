@@ -1,6 +1,6 @@
 body{
     font-family: "Trebuchet MS", Helvetica, sans-serif;
-    background: #643d87 url(fundo.jpg) no-repeat top center;
+    background: #643d87 url(im/fundo.jpg) no-repeat top center;
 }
 
 #container{
@@ -35,11 +35,11 @@ input{
 }
 
 input.email{
-    background-image: url(icone-usuario.png);
+    background-image: url(img/icone-usuario.png);
 }
 
 input.senha{
-    background-image: url(icone-cadeado.png);
+    background-image: url(img/icone-cadeado.png);
 }
 
 input.submit {
